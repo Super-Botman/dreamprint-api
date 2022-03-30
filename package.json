@@ -1,0 +1,26 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "braintree": "^3.10.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "formidable": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.7",
+    "node-fetch": "^3.2.0",
+    "nodemailer": "^6.7.2",
+    "socket.io": "^4.4.1",
+    "stl": "^1.1.1",
+    "swagger-ui-dist": "^4.5.0"
+  }
+}
