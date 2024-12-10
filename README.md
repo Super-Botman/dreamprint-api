@@ -1,5 +1,4 @@
-# class-chat-api
-class api is the api of class site for create users or messages or others acions.
+# Shopping website api
 
 ## Table of Contents
 1. [Documentation](#api-content)
